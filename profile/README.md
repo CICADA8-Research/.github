@@ -60,6 +60,8 @@ For further information or any inquiries, please reach out to us:
 
 - 🌐 [CICADA8 Official Website](https://futurecrew.ru/cicada8)
 - 📭 futurecrew@mts.ru
+- [Twitter](https://x.com/CICADA8Research)
+- [Medium](https://cicada-8.medium.com)
 
 ---
 
