@@ -28,6 +28,8 @@ CICADA8 is dedicated to delivering comprehensive vulnerability management servic
 
 Explore our repositories to find a wealth of information, tools, and research in the field of cybersecurity. Each repository is meticulously curated to provide valuable insights and practical solutions.
 
+**ALL TOOLS AND OUR RESEARCH ARE POSTED FOR EDUCATIONAL PURPOSES ONLY. WE DO NOT APPROVE THEIR USE WITHOUT AUTHORIZATION TO CONDUCT PENTESTS**
+
 ---
 
 ## 🚀 Getting Started
