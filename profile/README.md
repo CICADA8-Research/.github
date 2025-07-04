@@ -2,6 +2,8 @@
 
 # 🌐 CICADA8: Real-Time Vulnerability Management and Cyber Threat Tracking
 
+<img width="968" alt="CIC" src="https://github.com/user-attachments/assets/4f71d063-614d-4a5a-a154-1595d1994de0" />
+
 ---
 
 Welcome to the official GitHub repository for CICADA8! Your premier destination for cutting-edge research and development in the cybersecurity field. Our focus on real-time threat tracking and vulnerability management is aimed at providing top-notch tools and insights to safeguard your digital infrastructure.
